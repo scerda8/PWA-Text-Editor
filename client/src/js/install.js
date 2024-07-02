@@ -30,6 +30,6 @@ window.addEventListener('appinstalled', (event) => {
   // Clear prompt
 window.deferredPrompt = null;
 
-butInstall.classList.toggle('hidden', true);
+// butInstall.classList.toggle('hidden', true);
 }); 
 
