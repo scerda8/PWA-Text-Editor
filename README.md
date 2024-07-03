@@ -13,7 +13,7 @@ This PWA application is a text editor that runs within the browser. Which also w
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Github Repo Link](#github-repo-link)
-- [Video Link](#video-link)
+- [Deployment from Render Link](#deployment-from-render-link)
 
 ### User Story:
 
