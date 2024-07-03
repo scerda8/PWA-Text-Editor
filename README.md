@@ -4,6 +4,7 @@
 ## Title: PWA: Text Editor
 
 ## Description:
+This PWA application is a text editor that runs within the browser. Which also will automatically be installed when hitting the install button on the left corner of the screen. This application also runs on offline, meaning no network needed to use it. This application utilizes the help of an "indexedDB" which is a type of database for storing data by mutliple key types. This application is easy and clean viewing for any user looking to create notes with or without internet. That you can retrive right from your computer's local after installation. 
 
 ## Table of Contents
 
@@ -82,3 +83,5 @@ THEN I should have proper build scripts for a webpack application
 https://github.com/scerda8/PWA-Text-Editor.git
 
 ### Deployment from Render Link:
+
+https://pwa-text-editor-gdwt.onrender.com
