@@ -85,3 +85,9 @@ https://github.com/scerda8/PWA-Text-Editor.git
 ### Deployment from Render Link:
 
 https://pwa-text-editor-gdwt.onrender.com
+
+![image](https://github.com/scerda8/PWA-Text-Editor/assets/159675591/ea3952fc-3a5e-4d8a-ae97-040c7d037bb6)
+![image](https://github.com/scerda8/PWA-Text-Editor/assets/159675591/58157f0a-e675-4ec9-a911-5a468ee88a95)
+
+
+
